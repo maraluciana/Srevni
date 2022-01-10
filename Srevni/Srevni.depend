@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641846248 source:c:\users\mara\desktop\facultate anu 2\af\srevni\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<queue>
+	<vector>
+	<utility>
+	<bits/stdc++.h>
+
